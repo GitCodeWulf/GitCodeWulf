@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @GitCodeWulf
-- 👀 My interests : Building Next Gen, Secure and robust Software; Something difficult to break for QEs :-)! I love exploring Anti-Architecture Patterns to challenge the obvious here! I enjoy Ethical hacking, DevSecOps, GenAI, AI/ML, Neural networks, Tensor, PyTorch, Keras, LLM evaluations, coding agent evaluations etc. 
-- 🌱 I’m currently learning about and exploring google's tools that help translate Mainframe/CICS-batches to be translated into Java/Springboot Services. 
-- 💞️ I’m looking to collaborate on anything NEXT GEN that saves time and cost for large teams with a product in making and is scheduled for a  Go to market in future against competition, it could be for Fintechs/Insurance or Health domains.
-- 📫 How to reach me omkarshukla.iimcal@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am enjoying  National Geographic exploring Wolves! My admiration for their loyalities to their partner and parents, honesty of (hunting/)working hard to earn food and not using shortcuts of living off carcasses is now manyfold. It is motivational to adopt some of these features in our character. 
+ Hi, I'm Omkaar 👋  @GitCodeWulf
+Engineer focused on secure, robust, next-gen software — the kind that's genuinely hard to break.
+
+🔭 What I work on
+I build software with security baked in from the first line, not bolted on at the end. I'm drawn to anti-patterns and adversarial thinking — poking at the "obvious" design to find where it cracks before someone else does. Lately that means living at the intersection of DevSecOps, ethical hacking, and applied AI.
+🧪 Current focus
+GenAI & ML — LLM evaluations, coding-agent evaluations, and the eval tooling around them
+Platform modernization — using Google's migration tooling to translate Mainframe / CICS batch workloads into Java / Spring Boot services
+Deep work with PyTorch, Keras, TensorFlow, and neural network architectures
+🛠️ Tech I reach for
+Java · Spring Boot · Python · PyTorch · Keras · TensorFlow · LLM Evals · DevSecOps · Security Tooling
+🤝 Open to collaborating on
+Next-gen engineering and platform modernization that cuts time and cost for large teams — especially products heading to market in fintech, insurance, or healthcare. If you're building something ambitious in that space, let's talk.
+📫 Reach me
+omkarshukla.iimcal@gmail.com
+⚡ Fun fact: I've been deep in National Geographic's wolf documentaries lately. What stays with me is their loyalty to family, and how they earn their food through real work rather than scavenging shortcuts. There's something worth borrowing there — for character, and for engineering.
+
+(He/Him) 
 
 <!---
 GitCodeWulf/GitCodeWulf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
